@@ -30,7 +30,8 @@ sudo apt install azure-cli -y
 # Validate Azure Cli Installation
 az --version
 
-az login --use-device-code
-az account list
-az account set --subscription xxxxa71a-ed0b-xxxx-a34f-ea1c3ed3xxxx
+# sudo az login --use-device-code
+sudo az login
+# sudo az account list
+# sudo az account set --subscription xxxxa71a-ed0b-xxxx-a34f-ea1c3ed3xxxx
 

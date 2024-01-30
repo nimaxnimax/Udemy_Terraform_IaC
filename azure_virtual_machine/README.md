@@ -6,7 +6,7 @@ Infrastructure Server Deployment Azure Cloud Management with Terraform Infrastru
 **********
 
 Tips/Tricks/Notes/Commands URL Link: 
-https://github.com/nimaxnimax/Udemy_Terraform_IaC.git
+https://github.com/nimaxnimax/Udemy_Terraform_IaC/tree/main/azure_virtual_machine
 
 Instructor & Courses >> 
 https://www.udemy.com/user/adrian-fischer-infotech/
@@ -14,20 +14,23 @@ https://www.udemy.com/user/adrian-fischer-infotech/
 
 **********
 
-# Introduction of Terraform in Azure
+Introduction of Terraform in Azure
 Everything you need to deploy resources in Azure with Terraform!
 
-# A list with various interesting links
 
-# Azure CLI#  
+A list with various interesting links
+
+
+Azure CLI
+
 https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 
-# Terraform Installation#  
+Terraform Installation
+
 https://developer.hashicorp.com/terraform/downloads
 
-<https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli>
 
-# Terraform and Azure Resources#
+Terraform and Azure Resources
 
 https://registry.terraform.io/browse/providers
 

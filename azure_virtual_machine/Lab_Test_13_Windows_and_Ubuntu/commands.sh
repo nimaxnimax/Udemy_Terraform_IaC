@@ -21,9 +21,5 @@ terraform show | Select-String "public_ip"
 
 terraform output
 
-terraform output public_ip_address
-
-terraform output admin_password
-
 # terraform destroy
 
